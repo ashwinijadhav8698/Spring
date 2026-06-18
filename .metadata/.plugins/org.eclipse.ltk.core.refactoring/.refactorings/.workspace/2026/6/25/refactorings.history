@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SpringMVCFirstAnnotation&apos;" deleteContents="false" description="Delete resource &apos;SpringMVCFirstAnnotation&apos;" element1="/SpringMVCFirstAnnotation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1781590994744"/>
+</session>

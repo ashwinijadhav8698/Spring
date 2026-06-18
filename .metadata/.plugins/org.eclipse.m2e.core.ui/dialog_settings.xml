@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SpringMVCFirstAnnotation"/>
+			<item value="OnlineExaminationSystem"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringMVCFirstAnnotation"/>
+			<item value="OnlineExaminationSystem"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="I:\SpringCodes\BeanLifeCycle"/>
+			<item value="I:\SpringCodes\AutowireAnnotaion\src\main\java\org\techhub\Calculator.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="emplatre"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.techhub"/>
+			<item value="org.model"/>
+			<item value="org.springcore"/>
+			<item value="SpringDemo"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="CRUDApplication"/>
+			<item value="RowMapperWhereClause"/>
+			<item value="RowMapper"/>
+			<item value="PreparedStatementSetterThree"/>
+			<item value="PrepareStatementSetterTwo"/>
+			<item value="PrepareStatementOne"/>
+			<item value="JDBCTemplateMethods"/>
+			<item value="JDBCTemplateDemo"/>
+			<item value="SpringDemoAnnotation"/>
+			<item value="SpringJdbcDemo"/>
+			<item value="LookUpAnnotaionSingleton"/>
+			<item value="LazyLoading"/>
+			<item value=" EagerLoading"/>
+			<item value="BeanLifeCycleProgrammingApproach"/>
+			<item value="BeanLifeCycleAnnotaion"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="emplatre"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+package org.techhub.config;
+
+@Configuration
+
+public class WebMvcConfig {
+
+}

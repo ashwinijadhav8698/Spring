@@ -1,0 +1,9 @@
+127.0.0.1 - - [16/Jun/2026:11:17:36 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [16/Jun/2026:11:17:37 +0530] "GET /SpringMVCFirstAnnotation/WEB-INF/Views/index.jsp HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [16/Jun/2026:11:17:37 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [16/Jun/2026:11:23:59 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [16/Jun/2026:11:24:00 +0530] "GET /SpringMVCFirstAnnotation/WEB-INF/Views/index.jsp HTTP/1.1" 404 683
+127.0.0.1 - - [16/Jun/2026:11:31:23 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [16/Jun/2026:11:31:24 +0530] "GET /SpringMVCFirstAnnotation/ HTTP/1.1" 404 762
+127.0.0.1 - - [16/Jun/2026:11:32:57 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [16/Jun/2026:11:32:59 +0530] "GET /SpringMVCFirstAnnotation/ HTTP/1.1" 200 216
